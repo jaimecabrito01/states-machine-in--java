@@ -11,7 +11,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você instalou a versão mais recente de `Java / java 17` 
 - Você tem uma máquina `Windows / Linux / Mac`. 
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando a maquina de estados 
 
 Para instalar a maquina de estados, siga estas etapas:
 
@@ -22,6 +22,8 @@ git clone https://github.com/jaimecabrito01/states-machine-in--java.git
 Entre no projeto e execute.
 ```
 java Main.java
-```
+``
+
+
 
 
