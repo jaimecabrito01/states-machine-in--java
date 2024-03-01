@@ -8,22 +8,20 @@ Este projeto é uma implementação de uma Máquina de Estados em Java, utilizan
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+- Você instalou a versão mais recente de `Java / java 17` 
+- Você tem uma máquina `Windows / Linux / Mac`. 
 
 ## 🚀 Instalando <nome_do_projeto>
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Para instalar a maquina de estados, siga estas etapas:
 
-Linux e macOS:
+Primiero clone o repositorio com 
+```
+git clone https://github.com/jaimecabrito01/states-machine-in--java.git
+```
+Entre no projeto e execute.
+```
+java Main.java
+```
 
-```
-<comando_de_instalação>
-```
 
-Windows:
-
-```
-<comando_de_instalação>
-```
