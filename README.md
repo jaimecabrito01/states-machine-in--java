@@ -22,8 +22,4 @@ git clone https://github.com/jaimecabrito01/states-machine-in--java.git
 Entre no projeto e execute.
 ```
 java Main.java
-``
-
-
-
-
+```
