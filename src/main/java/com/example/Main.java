@@ -1,7 +1,10 @@
 package com.example;
 
+import com.example.states.MaquinaEstados;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+      MaquinaEstados maquinaEstados = new MaquinaEstados();
+      maquinaEstados.proximoEstado();
     }
 }
